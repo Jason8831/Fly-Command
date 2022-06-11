@@ -1,0 +1,5 @@
+flyMe: "§f[§l§eFly§r§f]: vous avez été mis en fly"
+noPlayerMention: "§f[§l§4ERROR§r§f]: vous devez faire /fly [player]"
+msgFlyTarget: "§f[§l§eFly§r§f]: vous avez été mis en fly par {player}"
+msgFlyPlayer: "§f[§l§eFly§r§f]: vous avez bien mis {target} en fly"
+noPlayerPerm: "§f[§l§4ERROR§r§f]: vous n'avez pas la permission d'éxécuter cette commande"
