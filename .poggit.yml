@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Jason8831/Fly-Command
+build-by-default: true
+branches:
+- main
+projects:
+  FlyCmds:
+    path: FlyCmds/
+...
